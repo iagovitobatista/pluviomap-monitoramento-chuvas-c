@@ -1,0 +1,4 @@
+pluviomap
+*.o
+*.exe
+*.out
