@@ -57,7 +57,37 @@ Os resultados acima são de uma execução de teste com dados simulados.
 
 ## 🖼️ Evidências do projeto
 
-Foram produzidas capturas da organização do código, da matriz e dos laços, do relatório de resultados, do heatmap e dos testes de validação. Essas imagens podem ser adicionadas à pasta `imagens/` do repositório para documentar visualmente a atividade.
+As imagens abaixo registram o desenvolvimento e a execução da atividade no ambiente de programação.
+
+### 1. Organização do código e funções
+
+Demonstração das funções auxiliares utilizadas para organizar o programa e validar dados de entrada.
+
+![Código e funções do PluvioMap](imagens/pluviomap_01_codigo_funcoes.png)
+
+### 2. Matriz bidimensional e estruturas de repetição
+
+Utilização de uma matriz de 7 dias por 3 bairros, percorrida com laços de repetição para registrar e processar os volumes de chuva.
+
+![Matriz e laços de repetição](imagens/pluviomap_02_matriz_lacos.png)
+
+### 3. Relatório de resultados
+
+Apresentação das informações processadas, incluindo acumulados, médias e identificação dos maiores volumes.
+
+![Relatório de resultados do PluvioMap](imagens/pluviomap_03_resultados.png)
+
+### 4. Heatmap textual
+
+Representação das intensidades simuladas de chuva por dia e bairro, utilizando símbolos e uma legenda ilustrativa.
+
+![Heatmap textual do PluvioMap](imagens/pluviomap_04_heatmap.png)
+
+### 5. Testes de validação
+
+Registro dos testes realizados com entradas para verificar o tratamento de dados inválidos.
+
+![Teste de validação do PluvioMap](imagens/pluviomap_teste_validacao_completo.png)
 
 ## 🎓 Contexto acadêmico
 
